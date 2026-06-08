@@ -49,7 +49,7 @@ Displays the current boarding method, number of seated passengers, elapsed time,
 | Colour | Meaning |
 |---|---|
 | Purple | Walking down the aisle |
-| Yellow / arc | Stowing luggage |
+| Yellow | Stowing luggage |
 | Red | Waiting for a blocked seat to clear |
 | Green | Seated |
 
